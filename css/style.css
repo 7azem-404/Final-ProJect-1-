@@ -1,0 +1,94 @@
+.navbar {
+    background: linear-gradient(to right, #090d35 40%, #997a37);
+}
+
+.navbar .nav-link {
+    color: white;
+    transition: all 0.5s;
+    margin: 0px 5px;
+
+}
+
+.navbar .nav-link:hover {
+    background-color: 997a37;
+    color: white;
+    border-radius: 40px;
+    transition: 0.5s;
+}
+
+.carousel-inner img {
+    height: 1200px;
+}
+
+.navbar img{
+    width: 120px;
+    padding-left: 30px;
+}
+
+/* ------------------------- ABOUT ------------------------- */
+
+.hr {
+
+    width: 50%;
+    height: 5px;
+    background-color: #997a37;
+    border-radius: 50%;
+    margin: auto;
+}
+
+#about img {
+    border-radius: 20px;
+    margin-top: 10px;
+
+}
+
+.gr {
+    width: 20%;
+    height: 5px;
+    background-color: #997a37;
+    border-radius: 50%;
+    margin: auto;
+
+}
+
+/* ------------------------- GALLERY ------------------------- */
+
+.gallary {
+    color: #997a37;
+    background: linear-gradient(#090d35 5%, #997a37);
+}
+
+.nav a {
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    border-radius: 10px;
+    transition: 0.5s all;
+    
+
+
+}
+.nav a:hover {
+    color: 997a37;
+    border-radius: 20px;
+    color: #997a37;
+
+
+}
+.gallary .nav {
+    margin: 40px auto;
+   
+}
+.button {
+    background-color: #997a37 ;
+}
+.aboutUs {
+    color: #090d35;
+   
+}
+.site-footer{
+    background: linear-gradient(#090d35 50%, #997a37);
+    color: white;
+    margin-top: 20px;
+}
